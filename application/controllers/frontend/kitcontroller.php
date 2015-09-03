@@ -1,5 +1,7 @@
 <?php
-
+/*
+ * controller
+ */
 class kitcontroller extends CI_Controller
 {
 
