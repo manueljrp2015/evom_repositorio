@@ -1,0 +1,231 @@
+1405012964TS---><!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>|| RDS - skyway ||</title>
+        <meta name="generator" content="Bootply">
+        <meta name="author" content="Manuel Rodriguez">
+        <meta name="application-name" content="RDS skyway">
+        <meta name="description" content="SKYWAY INTERNACIONAL, Es la innovación de servicios relacionados con el mundo del modelaje, actuación, música, baile y canto prestando servicios a nivel nacional, con el mejor talento humano.">
+        <meta name="keywords" content="skyway, redes, eventos, concursos, belleza, modelaje">
+        <meta http-equiv="refresh" content="180">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" type="text/css" rel="stylesheet">
+        <link href="http://redskywaylocal.com.co/assets/css/bootstrap.min.css" rel="stylesheet">
+        <link href="http://redskywaylocal.com.co/assets/css/modern-business.css" rel="stylesheet">
+        <link href="http://redskywaylocal.com.co/assets/css/include.css" rel="stylesheet">
+        <link href="http://redskywaylocal.com.co/assets/img/page/favicon.ico" type="image/x-icon" rel="shortcut icon">
+        <link rel="stylesheet" type="text/css" href="http://redskywaylocal.com.co/assets/js/source/jquery.fancybox.css?v=2.1.5" media="screen">
+        <link rel="stylesheet" type="text/css" href="http://redskywaylocal.com.co/assets/js/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" media="screen">
+        <script src="http://redskywaylocal.com.co/assets/js/jquery.js" type="text/javascript"></script>
+        <script type="text/javascript" src="http://redskywaylocal.com.co/assets/js/include.js"></script>
+        <script src="http://redskywaylocal.com.co/assets/js/script.js" type="text/javascript"></script>
+        <script type="text/javascript" src="http://redskywaylocal.com.co/assets/js/validar_caracteres.js"></script>
+        <script type="text/javascript" src="http://redskywaylocal.com.co/assets/js/bootstrap.js"></script>
+        <script src="http://redskywaylocal.com.co/assets/js/source/jquery.fancybox.js?v=2.1.5" type="text/javascript"></script>
+        <script src="http://redskywaylocal.com.co/assets/js/source/helpers/jquery.fancybox-buttons.js?v=1.0.5" type="text/javascript"></script>
+        <script src="http://redskywaylocal.com.co/assets/js/jquery.validate.js" type="text/javascript"></script>
+        <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+    </head>
+    <body>    <div class="navbar yamm navbar-default navbar-fixed-top" />
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" data-toggle="collapse" data-target="#navbar-collapse-1" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="#" class="navbar-brand"><img src="http://redskywaylocal.com.co/assets/img/page/Logo2.png" width="130px" style="padding-left: 0px; margin-top: -20px;"></a>
+            </div>
+            <div id="navbar-collapse-1" class="navbar-collapse collapse" style="vertical-align: middle">
+                <ul class="nav navbar-nav">
+                    <!-- Classic list -->
+                    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="icon-large icon-home"></i> Home<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                            <li><a tabindex="-1" href="http://redskywaylocal.com.co/principal"> Invitaciones </a></li>
+                            <li><a tabindex="-1" href="#"> Noticias </a></li>
+                            <li><a tabindex="-1" href="http://redskywaylocal.com.co/skywall/manueljrp"> Skywall </a></li>
+                    </li>
+                </ul>
+                </li>
+                <!-- Accordion demo -->
+                <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="icon-large icon-group"></i> Redes<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                        <li><a tabindex="-1" href="http://redskywaylocal.com.co/redes"> Ver redes </a></li>
+                        <li><a tabindex="-1" href="http://redskywaylocal.com.co/analisis"> Analisis de redes </a></li>
+                </li>
+                </ul>
+                </li>
+                <!-- Classic dropdown -->
+                <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="icon-large icon-flag"></i> Aliados<b class="caret"></b></a>
+                    <ul role="menu" class="dropdown-menu">
+                        <li><a tabindex="-1" href="http://redskywaylocal.com.co/aliados"> Ver Aliados </a></li>
+
+                    </ul>
+                </li>
+                <!-- pagos -->
+                <li class="dropdown yamm-fw"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="icon-large icon-money"></i> Pagos<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                        <li><a tabindex="-1" href="http://redskywaylocal.com.co/Pagos"> Ver Pagos</a></li>
+   
+                </li>
+                </ul>
+                </li>
+                <!-- configuracion -->
+                <li class="dropdown yamm-fw"><a href="#" data-toggle="dropdown" class="dropdown-toggle"><i class="icon-large icon-cog"></i> Configuracion<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                        <li><a tabindex="-1" href="http://redskywaylocal.com.co/mantenimiento"> Configurar cuenta </a></li>
+                </li>
+                </ul>
+                </li> 
+                <!-- informacion usuario  -->
+                <li class="dropdown yamm-fw"><a href="#" data-toggle="dropdown" id="startup-session" class="dropdown-toggle" ><img src="http://redskywaylocal.com.co/assets/img/profile/2f8f8d2bf3d52b910ea316e8b609315f588b5386/crop_2014JulTue050703_programador_thumb.jpg" height="25px" style="border: 1px solid white; margin-top: -10px;" class="img-rounded"> manueljrp<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                        <li><a tabindex="-1"  href="http://redskywaylocal.com.co/frontend/load/close"> Cerrar </a></li>
+                </li>
+                </ul>
+                </li>
+                </ul>
+            </div>
+        </div>
+    </div><script src="assets/js/aliados.js" type="text/javascript"></script>
+<div class="padding">
+    <div class="panel panel-default" >
+        <div class="panel-body">
+
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs">
+                <li class="active"><a href="#tab_naliados" data-toggle="tab">Nuestros Aliados</a></li>
+
+            </ul>
+
+            <div class="tab-content">
+                <div class="tab-pane fade in active" id="tab_naliados">
+
+                    <div class="row">
+                        
+                        <div class="col-sm-6 col-md-4" style="font-size: 12px;">
+                            <div class="thumbnail thumbnailAl">
+
+                                    <img src="http://redskywaylocal.com.co/./assets/img/profile/14ed80c76c3410448ead139aad7d611d97ba755d/PB_180x180.jpg" width="200px" id="imgprofile" class="img-rounded">                                    <div class="caption">
+                                        <table class="table table-hover center">
+                                            <tr>
+                                                <td>
+                                                    <h4>Pixelbytes </h4>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    J400062403                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    a.rodriguez@pixelbytes.com.ve                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    CC Paseo Mariño Local 106                                                </td>
+                                            </tr>
+                                        </table>
+                                       
+                                        <a href="pixelbytesweb" target="_blank" name="twit" class="href"><i class="icon-large icon-twitter img-rounded"></i> Twitter</a> <a href="pixelbytesweb" target="_blank" name="face" class="href"><i class="icon-large icon-facebook"></i> Facebook</a> <a href="web/www.pixelbytes.com.ve" target="_blank" class="href"><i class="icon-large icon-globe"></i> Web</a>                                     </div>
+                                </div>
+                            </div>
+                            
+                        <div class="col-sm-6 col-md-4" style="font-size: 12px;">
+                            <div class="thumbnail thumbnailAl">
+
+                                    <img src="http://redskywaylocal.com.co/assets/img/page/silueta-2.jpg" width="150px" id="imgprofile" class="img-rounded">                                    <div class="caption">
+                                        <table class="table table-hover center">
+                                            <tr>
+                                                <td>
+                                                    <h4>gfhgdflgmnfklhgfh4 </h4>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    J765765700                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    mjrpbago7@yahoo.com                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    tretretret                                                </td>
+                                            </tr>
+                                        </table>
+                                       
+                                        <a href="rtwret3" target="_blank" name="twit" class="href"><i class="icon-large icon-twitter img-rounded"></i> Twitter</a> <a href="retre" target="_blank" name="face" class="href"><i class="icon-large icon-facebook"></i> Facebook</a>                                     </div>
+                                </div>
+                            </div>
+                            
+                        <div class="col-sm-6 col-md-4" style="font-size: 12px;">
+                            <div class="thumbnail thumbnailAl">
+
+                                    <img src="http://redskywaylocal.com.co/assets/img/page/silueta-2.jpg" width="150px" id="imgprofile" class="img-rounded">                                    <div class="caption">
+                                        <table class="table table-hover center">
+                                            <tr>
+                                                <td>
+                                                    <h4>proebadosdk </h4>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    J345234554                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    mjrpbago123@yahoo.com                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    gdfsgfdg                                                </td>
+                                            </tr>
+                                        </table>
+                                       
+                                        <a href="fdgsfdgdf" target="_blank" name="twit" class="href"><i class="icon-large icon-twitter img-rounded"></i> Twitter</a> <a href="fgsdfg" target="_blank" name="face" class="href"><i class="icon-large icon-facebook"></i> Facebook</a> <a href="web/dfgsfdgfdg" target="_blank" class="href"><i class="icon-large icon-globe"></i> Web</a>                                     </div>
+                                </div>
+                            </div>
+                            
+                        <div class="col-sm-6 col-md-4" style="font-size: 12px;">
+                            <div class="thumbnail thumbnailAl">
+
+                                    <img src="http://redskywaylocal.com.co/assets/img/page/silueta-2.jpg" width="150px" id="imgprofile" class="img-rounded">                                    <div class="caption">
+                                        <table class="table table-hover center">
+                                            <tr>
+                                                <td>
+                                                    <h4>4352 </h4>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    J534534527                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    mjrpbago12347@yahoo.com                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    dgfhgfh                                                </td>
+                                            </tr>
+                                        </table>
+                                       
+                                        <a href="dgfhdgfh" target="_blank" name="twit" class="href"><i class="icon-large icon-twitter img-rounded"></i> Twitter</a> <a href="gfhh" target="_blank" name="face" class="href"><i class="icon-large icon-facebook"></i> Facebook</a> <a href="web/gfhgf" target="_blank" class="href"><i class="icon-large icon-globe"></i> Web</a>                                     </div>
+                                </div>
+                            </div>
+                                                </div>
+                    <div class="tab-pane fade" id="messages">...</div>
+                    <div class="tab-pane fade" id="settings">...</div>
+                </div>
+            </div>
+        </div>
+    </div> <div class="footer">
+      <div class="container">
+          <p class="text-muted">Desarrollo Web Manuel Rodriguez - Diseño Manuel Rodriguez. Todos los Derechos Reservados Copyright &COPY; - Skyway Internacional, C.A </p><p> <a href="http://redskywaylocal.com.co/politicas-privacidad">Pol&iacute;tica de Privacidad</a></p>
+      </div>
+    </div>

@@ -1,0 +1,3 @@
+Options  -Indexes
+IndexIgnore *.js *.css *.jpg *.png *.pdf *.jpeg *.gif
+ErrorDocument 403 http://registro.vbr.org.ve/403_override
